@@ -1,0 +1,48 @@
+body {
+    background-color: aqua;
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 40px;
+}
+
+h1 {
+    color: rgb(139, 74, 0);
+}
+
+h2 {
+    color: darkgreen;
+}
+
+h3, h4, h5, h6 {
+    color: purple;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    border: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+ul, ol {
+    display: inline-block;
+    text-align: left;
+}
+
+a {
+    color: darkred;
+    text-decoration: none;
+}
+
+a:hover {
+    color: green;
+}
+
+hr {
+    border: 1px solid black;
+}
